@@ -19,6 +19,15 @@
 ![](gimp.png)
 
 !SLIDE center
+![](apache.png)
+
+!SLIDE center
+![](gnu.png)
+
+!SLIDE center
+![](github.png)
+
+!SLIDE center
 # Maintenance vs. Development #
 
 !SLIDE center
